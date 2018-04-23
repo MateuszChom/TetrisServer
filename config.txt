@@ -1,0 +1,20 @@
+#Frame Dimension
+600 700
+WIDTH / HEIGHT
+#Button Dimension
+80 25
+WIDTH / HEIGHT
+#TextField Dimension
+7 25
+WIDTH / HEIGHT
+#Font Color
+0x0044AA 0x006600 0x8B008B 0xEE1111 0x0055BB
+INFO / SENT / RECEIVED / ERROR / NORTHPANEL
+#Font Size
+12 12
+NORTHPANEL / SCROLLPANE
+#Default Port
+1000
+#Socket Timeout
+3000
+MILISECONDS

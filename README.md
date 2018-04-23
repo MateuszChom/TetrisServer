@@ -1,4 +1,4 @@
-# Tetris
+# TetrisServer
 Game tetris, Server version, playable without server
 
 Project made to complete PROZE subject.

@@ -1,0 +1,39 @@
+#English
+Tetris - Server
+Start
+Exit
+Port
+Server IP
+Cannot fix server IP number
+Unknown
+Incorrect port number
+Stop
+Server is ready to work on port
+is already in use
+Server error
+Unknown command
+To
+From
+Cannot read tetrimino colors from config file
+Port number is too long
+Sending tetrimino colors
+Cannot read interface colors from config file
+Sending interface colors
+Cannot read text size from config file
+Sending text size
+Cannot read board dimension from config file
+Sending board dimension
+Input/output exception
+Socket timeout
+Waiting for name and score
+Cannot read high scores from file
+Data sent by client is incorrect
+Cannot save high scores to file
+New high score have been saved to the file
+Sending high scores
+Waiting for level number and parameters
+This level does not exist
+Cannot read level parameters from file
+Sending level parameters
+Cannot read board size from config file
+Sending board size

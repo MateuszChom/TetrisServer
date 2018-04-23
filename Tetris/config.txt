@@ -1,0 +1,13 @@
+#Tetrimino Color
+0Xff0000 0X999999 0X00ffff 0Xffff00 0Xff00ff 0X0000ff 0X00ff00 0X364135 0X000000
+I / T / O / L / J / S / Z / BLINK
+#Interface Color
+0xffffff 0xffffff 0x000000 0xff0000
+Main Panel / Preview Panel / Text / Cheat Text
+#Text Size
+14 32 16
+Main Text Size / Score Text Size / SubText Size
+#Board Dimension
+20 10
+#Board Size
+40
